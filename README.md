@@ -7,7 +7,7 @@
 ```alias gs='git status'```<br>
 ```alias ga='git add .'```<br>
 ```alias gc='git commit'```<br>
-```alias gk='git checkout'```<br>
+```alias gck='git checkout'```<br>
 ```alias gp='git pull'```<br>
 ```alias gps='git push'```<br>
 ```alias lau='git push'```<br>
