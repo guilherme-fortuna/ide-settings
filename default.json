@@ -59,7 +59,6 @@
         "sideBarSectionHeader.border": "#001a1a",
         // ── Editor ────────────────────────────────────
         "editor.background": "#000",
-        "editor.foreground": "#00ffff",
         "editorLineNumber.foreground": "#003333",
         "editorLineNumber.activeForeground": "#00ffff",
         "editor.lineHighlightBackground": "#001a1a",
